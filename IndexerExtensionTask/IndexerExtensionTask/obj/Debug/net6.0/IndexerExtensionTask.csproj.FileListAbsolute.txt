@@ -1,0 +1,14 @@
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\bin\Debug\net6.0\IndexerExtensionTask.exe
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\bin\Debug\net6.0\IndexerExtensionTask.deps.json
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\bin\Debug\net6.0\IndexerExtensionTask.runtimeconfig.json
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\bin\Debug\net6.0\IndexerExtensionTask.dll
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\bin\Debug\net6.0\IndexerExtensionTask.pdb
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\obj\Debug\net6.0\IndexerExtensionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\obj\Debug\net6.0\IndexerExtensionTask.AssemblyInfoInputs.cache
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\obj\Debug\net6.0\IndexerExtensionTask.AssemblyInfo.cs
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\obj\Debug\net6.0\IndexerExtensionTask.csproj.CoreCompileInputs.cache
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\obj\Debug\net6.0\IndexerExtensionTask.dll
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\obj\Debug\net6.0\refint\IndexerExtensionTask.dll
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\obj\Debug\net6.0\IndexerExtensionTask.pdb
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\obj\Debug\net6.0\IndexerExtensionTask.genruntimeconfig.cache
+C:\Users\User\IndexerExtensionTask\IndexerExtensionTask\obj\Debug\net6.0\ref\IndexerExtensionTask.dll
