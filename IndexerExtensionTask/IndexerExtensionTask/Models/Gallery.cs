@@ -15,22 +15,7 @@ namespace IndexerExtensionTask.Models
         public Car this[int index]
         {
             get => Cars[index]; 
-            set
-            {
-                if (index > Cars.Length - 1)
-                {
-                    Console.WriteLine($"Given index is out of array, expand array by one element and set your value there?(Yes/Y)");
-                    string response = Console.ReadLine().ToLower();
-                    if (response == "y" || response == "yes")
-                    {
-                        Array.Resize(ref Cars, Cars.Length + 1);
-                        Cars[index] = value;
-                    }
-                    else
-                    {
-                        return;
-                    }
-                }
+            set => Cars[index] = value;
             }
         }
 
@@ -51,7 +36,7 @@ namespace IndexerExtensionTask.Models
 
         public Gallery()
         {
-            Cars  = new Car[0];
+            Cars  = new Car[1];
         }
     }
 }
